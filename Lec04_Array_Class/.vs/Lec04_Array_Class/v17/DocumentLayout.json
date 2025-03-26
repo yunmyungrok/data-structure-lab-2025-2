@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2025-2\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52AABBCB-704F-47EB-8BDF-5983024DA498}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2025-2\\Lec04_Array_Class\\Lec04_Array\\arrray_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52AABBCB-704F-47EB-8BDF-5983024DA498}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\arrray_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrray_sub.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2025-2\\Lec04_Array_Class\\Lec04_Array\\arrray_sub.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array\\arrray_sub.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2025-2\\Lec04_Array_Class\\Lec04_Array\\arrray_sub.cpp",
+              "RelativeToolTip": "Lec04_Array\\arrray_sub.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T00:27:16.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
